@@ -17,6 +17,5 @@ My skills:
 ![My stats](https://github-readme-stats.vercel.app/api?username=projectaki&count_private=true&show_icons=true&theme=synthwave)
 \
 \
-<!-- [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=projectaki)](https://github.com/anuraghazra/github-readme-stats) -->
 [![My activity graph](https://activity-graph.herokuapp.com/graph?username=projectaki&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
