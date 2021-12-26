@@ -1,0 +1,22 @@
+Base badge: https://img.shields.io/badge/-<Text inside badge> -<Hex color>?logo=<name_of_the_icon_lowercased>
+&logoColor=<color>&style=flat
+
+extensions:
+ -<Text inside badge> (%20) url encode spaces
+ -<Hex color>
+?logo=<name_of_the_icon_lowercased>
+&logoColor=<color>
+&style=flat-square
+
+ts <img src="https://img.shields.io/badge/-typescript-blue?logo=typescript&logoColor=white&style=flat">
+js <img src="https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=black&style=flat">
+c# <img src="https://img.shields.io/badge/-C%23-9B4993?logo=C-sharp&logoColor=black&style=flat">
+angular <img src="https://img.shields.io/badge/-Angular-dd1b16?logo=angular&logoColor=black&style=flat">
+nodejs <img src="https://img.shields.io/badge/-NodeJs-43853D?logo=node.js&logoColor=black&style=flat">
+mongodb <img src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
+sql <img src="https://img.shields.io/badge/MSSQL-gray?logo=microsoft-sql-server&logoColor=white">
+graphql <img src="https://img.shields.io/badge/GraphQL-161e26?logo=graphql&logoColor=e535ab">
+
+
+
+
