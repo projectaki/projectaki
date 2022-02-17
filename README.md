@@ -33,7 +33,7 @@ to spend time with friends.
 ![Github](https://img.shields.io/badge/Github-black?logo=github&logoColor=purple)
 ![Markdown](https://img.shields.io/badge/Markdown-black?logo=markdown&logoColor=blue)
 ![Nodejs](https://img.shields.io/badge/-NodeJs-43853D?logo=node.js&logoColor=black&style=flat)
-![Mongodb](https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white)  
+![Mongodb](https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white)
 ![Graphql](https://img.shields.io/badge/GraphQL-161e26?logo=graphql&logoColor=e535ab)
 ![Css](https://img.shields.io/badge/CSS-white?logo=css3&logoColor=264de4)
 ![Html](https://img.shields.io/badge/HTML-grey?logo=html5&logoColor=e34c26)
