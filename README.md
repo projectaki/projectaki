@@ -48,8 +48,7 @@ to spend time with friends.
 
 ## Personal projects 📔
 
-I love to code, and I try to always work on some project. My projects are kept in GitHub, and are available there. Below is a list of most of my projects in GitHub.
-Some of them are only a link to the repository, but some are hosted websites such as this portfolio.
+I love to code, and I try to always work on some project. Almost all of my repos are public.
 
 ### Badges for this project
 
