@@ -49,7 +49,3 @@ to spend time with friends.
 ## Personal projects 📔
 
 I love to code, and I try to always work on some project. Almost all of my repos are public.
-
-### Badges for this project
-
-[![Tests](https://github.com/projectaki/portfolio/actions/workflows/test-coverage.yml/badge.svg)](https://github.com/projectaki/portfolio/actions/workflows/test-coverage.yml) [![pages-build-deployment](https://github.com/projectaki/portfolio/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/projectaki/portfolio/actions/workflows/pages/pages-build-deployment) [![Coverage Status](https://coveralls.io/repos/github/projectaki/portfolio/badge.svg?branch=master)](https://coveralls.io/github/projectaki/portfolio?branch=master)
