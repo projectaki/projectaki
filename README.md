@@ -17,9 +17,6 @@ and it enforces a lot of good coding principles. I have tried a few backend fram
 if I want a nodejs backend, then NestJs has definitely been my favourite for its strong similarity with Angular. I am
 also very interested in the cloud, and CI/CD pipelines.
 
-On a personal note, I love dogs. I enjoy doing all kinds of sports, mainly football. I also find it important
-to spend time with friends.
-
 ## Technologies 💻
 
 ![Angular](https://img.shields.io/badge/-Angular-dd1b16?logo=angular&logoColor=black&style=flat)
